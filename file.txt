@@ -1,4 +1,4 @@
-start of file 
+start of file merge aana cheye 
 vikas
 yadav
 new line 
@@ -7,4 +7,4 @@ new
 line
 added
 here
-end of file
+end of file  merge aana cheye 
