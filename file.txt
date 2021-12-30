@@ -1,12 +1,12 @@
-<<<<<<< HEAD
+
 vikas
 yadav
 new line 
 added
 
-=======
+
 new
 line
 added
 here
->>>>>>> new1
+
